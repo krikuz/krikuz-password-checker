@@ -10,7 +10,7 @@ Built for real-world use, not just coding practice.
 
 ---
 
-## 🚀 How to Run It
+## How to Run It
 
 1. Clone the repo or download the files:
     git clone https://github.com/krikuz/krikuz-password-checker.git
